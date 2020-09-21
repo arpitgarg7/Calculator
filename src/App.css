@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.button {
+  width : 50px;
+}
+
+.result {
+   width : 200px;
+   background-color: black;
+  margin : auto;
+  height : 25px;
+  text-align: right;
+}
